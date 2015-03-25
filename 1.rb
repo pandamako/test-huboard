@@ -1,4 +1,4 @@
 class First
-  def foo
+  def less
   end
 end
