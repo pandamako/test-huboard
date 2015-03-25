@@ -3,6 +3,5 @@ class First
     wrr
     #dsfasdf
     #sadfsdf
-    #sadfsdf
   end
 end
