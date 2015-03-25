@@ -1,5 +1,5 @@
 class First
   def less
-    wr
+    wrr
   end
 end
